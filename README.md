@@ -1,28 +1,20 @@
-<div align="center">
-
 # Luis Alejandro Vega
-
-**Infrastructure Engineer · Security Specialist · Automation**
-
-`Argentina` · `RPV`
-
-</div>
 
 ---
 
 ### About
 
-Infrastructure engineer, security specialist, and founder of RPV with 12+ years of experience. I build and operate production VPN services, custom backend systems, and AI-powered automation. From designing custom services to operating multi-layered security infrastructure, I turn complex operations into reliable, self-healing systems. Passionate about cybersecurity and online privacy.
+Founder of RPV with 12+ years of experience. I design and operate production VPN services, custom backend systems, and AI-powered automation - turning complex operations into reliable, self-healing systems. Focus on cybersecurity and online privacy.
 
 ### Focus Areas
 
-- **VPN Services** — Designing, deploying, and operating production-grade network services
-- **Custom Backend Development** — Building services, APIs, and automation tools from scratch
-- **Security Infrastructure** — Multi-layered defense: intrusion detection, collaborative security, DNS filtering
-- **Self-Healing Automation** — Watchdogs, automated recovery, and maintenance pipelines
-- **AI Integration** — Connecting AI models to real tools and workflows
-- **Android & Windows Optimization** — Rooting, custom ROMs, performance tuning, advanced system configuration
-- **Graphic Design & Marketing** — Adobe Creative Suite, social media automation
+- **VPN Services** - Designing, deploying, and operating production-grade network services
+- **Custom Backend Development** - Building services, APIs, and automation tools from scratch
+- **Security Infrastructure** - Multi-layered defense: intrusion detection, collaborative security, DNS filtering
+- **Self-Healing Automation** - Watchdogs, automated recovery, and maintenance pipelines
+- **AI Integration** - Connecting AI models to real tools and workflows
+- **Android & Windows Optimization** - Rooting, custom ROMs, performance tuning, advanced system configuration
+- **Graphic Design & Marketing** - Adobe Creative Suite, social media automation
 
 ### Tech Stack
 
